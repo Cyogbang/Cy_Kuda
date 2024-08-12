@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav-logo {
+    height: 3rem;
+    width: 5rem;
+}
+
+.flags {
+    height: 1rem;
+    width: 0.7rem;
+}
+
+.download-btn {
+    width: 7rem;
+}
+
+.license {
+    width: 3.5rem;
+}
+
+/* .sec3-img {
+    width: 10rem;
+} */
+
+.sec3-imgBG {
+    position: absolute;
+    width: 20rem;
+}
+
+.sec3-avatar {
+    position: relative;
+    top: 2.5rem;
+    right: -13rem;
+    width: 20rem;
+}
+
+.sec3-phone {
+    position: relative;
+    width: 18rem;
+    right: 10rem;
+    bottom: 1.7rem;
+}
+
+.cardBG {
+    position: relative;
+    width: 6.5rem;
+    right: 10.8rem;
+    top: 7.3rem;
+}
+
+.sec3-card {
+    position: relative;
+    width: 4.5rem;
+    right: 16.5rem;
+    top: 8.7rem;
+}
+
+.sec3-desc {
+    width: 25rem;
+}
+
+.sec-box {
+    height: 8.5rem;
+}
+
+.sec4-bg {
+    width: 23rem;
+    position: absolute;
+}
+
+.sec4-items {
+    max-width: 18rem;
+    position: relative;
+    left: -6rem;
+}
+
+.sec4-items2 {
+    max-width: 20rem;
+    position: relative;
+    left: -4rem;
+}
+
+.sec6BG {
+    width: 23rem;
+    position: absolute;
+}
+
+.sec6kuda {
+    width: 16rem;
+    position: relative;
+    top: 5.4rem;
+    left: 2.5rem;
+}
+
+.sec6switch {
+    width: 28rem;
+    position: relative;
+    bottom: 22.8em;
+    right: 2.7rem;
+}
+
+.sec6safety {
+    width: 7rem;
+    position: relative;
+    bottom: 11rem;
+    right: 12rem;
+}
+
+.sec9-container {
+    overflow: auto;
+}
+
+.sec9-box {
+    width: 30rem;
+    /* height: 12rem; */
+}
